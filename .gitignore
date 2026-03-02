@@ -1,10 +1,17 @@
 # Python-generated files
 __pycache__/
-*.py[oc]
+*.py[cod]
 build/
 dist/
 wheels/
 *.egg-info
-*.log
+
 # Virtual environments
 .venv
+venv/
+
+# Logs
+*.log
+
+# Manim
+media/
